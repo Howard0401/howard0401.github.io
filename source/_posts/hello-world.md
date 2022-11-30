@@ -39,7 +39,7 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ## Test
 
-
+```
 {% mermaid %}
 graph TD
     A-->B
@@ -47,7 +47,7 @@ graph TD
     B-->D
     C-->D
 {% endmermaid %}
-
+```
 
 ``` go
 type IXXX interface {
