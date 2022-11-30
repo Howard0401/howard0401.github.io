@@ -925,7 +925,7 @@ CDN:
     # mathjax:
     # katex:
     # katex_copytex:
-    mermaid: true
+    mermaid:
     # canvas_ribbon:
     # canvas_fluttering_ribbon:
     # canvas_nest:
