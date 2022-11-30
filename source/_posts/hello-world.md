@@ -36,3 +36,26 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+## Test
+
+
+{% mermaid %}
+graph TD
+    A-->B
+    A-->C
+    B-->D
+    C-->D
+{% endmermaid %}
+
+
+``` go
+type IXXX interface {
+
+}
+func main() {
+  xxx()
+}
+
+
+```
